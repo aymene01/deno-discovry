@@ -1,4 +1,7 @@
 {
+  "name": "@aymene01/in-o",
+  "version": "0.1.0",
+  "exports": "./main.ts",
   "tasks": {
     "dev": "deno run --watch main.ts"
   },
